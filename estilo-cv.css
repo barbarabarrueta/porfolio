@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(180, 171, 176);
+  background-image: url("img/fondo4.png")
+}
+
+.texto {
+      font-family: 'Noto Sans JP', sans-serif;
+      font-size: 40px;
+  }
+
+h1 {
+  color: rgb(14, 10, 10);
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 30px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 18px;
+}
+
+.cuadrado {
+    background-color: rgb(204, 197, 196);
+    color: rgb(59, 52, 52);
+    width: 90%;
+    text-align: center;
+    box-align: center;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .cuadrado2 {
+    width: 90%;
+    text-align: center;
+    box-align: center;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  main {
+    display: grid;
+    padding: 1rem;
+    grid-gap: 1rem;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: 50% 50%;
+    font-size: 1rem;
+  }
+  
+  div {
+    color: rgb(8, 8, 8);
+    padding: 1rem;
+  }
+  
+  
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    width: 90%;
+    box-align: center;
+}
+  
