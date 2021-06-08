@@ -34,7 +34,7 @@ nav a {
     font-size: 20px;
     padding: 10px;
     color: rgb(255, 245, 245);
-
+    font-size: 23px;
 }
 .container1 div {
     font-size: 20px;
@@ -60,12 +60,14 @@ nav a {
     font-size: 20px;
     padding: 10px;   
     color:black;
+    font-size: 23px;
 }
 
 .image {
   background-image: url("https://barbarabarrueta.github.io/porfolio/img/fondoflor.png");  
   opacity: 0.2;
   z-index: 1;
+  padding: 5px;
   
 }
 
@@ -90,6 +92,8 @@ nav a {
 .fondo-tex{
     background-color: rgba(255, 235, 205, 0.541);
     z-index: 5;
+    padding:10px;
+    font-size: 22px;
 }
 
 .box-row {
