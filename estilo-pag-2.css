@@ -27,8 +27,7 @@ h1 {
     display: flex;
     flex-wrap: wrap;
 /*  background-color: rgb(204, 196, 185); */
-    align-self:flex-end;
-    align-items: flex-end;
+    align-items: center;
     padding: 10px;
     color: rgb(255, 245, 245);
 
